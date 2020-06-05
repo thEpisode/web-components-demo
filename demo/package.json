@@ -1,0 +1,13 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "parcel": "^2.0.0-alpha.3.2"
+  },
+  "scripts": {
+    "start": "yarn parcel index.html"
+  }
+}
